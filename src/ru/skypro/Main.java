@@ -3,6 +3,9 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
+
+        //забыла создать новую ветку XD
+
         int[] array = generateRandomArray();
         System.out.println();
 
